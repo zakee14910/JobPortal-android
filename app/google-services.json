@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269149557375",
+    "project_id": "jobpotal-1ca12",
+    "storage_bucket": "jobpotal-1ca12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269149557375:android:45b42a8f3ebf914cd0e54a",
+        "android_client_info": {
+          "package_name": "com.zakee.jobpotal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269149557375-it2t6ue67dec1385qubknbs3ire8guo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zakee.jobpotal",
+            "certificate_hash": "eecf3fa6ec0d8303b54e9ffc721f538a2a9c89f7"
+          }
+        },
+        {
+          "client_id": "269149557375-ed1b5oog708e1jds1q6mcmtbrkk7bp1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJwC_egGZAaUbjYbsx457MbOJi94DcEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269149557375-ed1b5oog708e1jds1q6mcmtbrkk7bp1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
