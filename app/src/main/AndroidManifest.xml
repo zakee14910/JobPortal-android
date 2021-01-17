@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.JobPotal">
-        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".Model.JobDetailsActivity"></activity>
+        <activity android:name=".InsertPostJobActivity" />
+        <activity android:name=".PostJobActivity" />
+        <activity android:name=".AllJobsActivity" />
+        <activity android:name=".HomeActivity" />
         <activity android:name=".RegistrationActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
